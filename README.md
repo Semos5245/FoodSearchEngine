@@ -9,3 +9,5 @@ ML model is used for ranking results.
 Performance is not considered in this project since it is merely a proof of concept.
 Single Files are used as a consistent storage and in-memory storage is used for when the project runs.
 This Project is no where near production ready.
+
+Open in Anaconda, Jupyter Notebook.
