@@ -1,5 +1,5 @@
 # FoodSearchEngine
-Simple, proof of work, search engine specific to information related to food and health.
+Simple, proof of concept, search engine specific to information related to food and health.
 Project written using python and used NLP concepts like tokenization, stemming, stop words removal, edit distance between two words for search correction, information extraction from html text retrieved and many more.
 
 Inverted Indexing was used to index the results that are retrieved from the crawler and index is stored in files.
